@@ -1,0 +1,19 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Git es un sistema de control de versión, que fue creado por Linus Torvalds en el año 2005, con el objetivo de ser utilizado en el desarrollo del kernel de Linux.
+Para entender mejor, el kernel de Linux es el elemento principal de los sistemas operativos (SO) Linux, y es la interfaz fundamental entre el hardware de una computadora y sus procesos.
+
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. 
+Si bien BitKeeper suponí­a un gran paso adelante e inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido), el hecho de ser un software propietario y que Linus Torvalds tenía ciertas desavenencias con su creador, Larry McVoy, lo llevaron a buscar un nuevo sistema de control de versiones. 
+
+De este modo, Torvalds decidió diseñar e implementar su propio sistema de control de versiones, creando Git con el proyecto de Linux y el workflow  de sus desarrolladores en mente, quienes fueron los primeros en adoptarlo como sistema de control de versiones. 
+El modo de funcionamiento distribuido, su eficiencia a la hora de trabajar con múltiples ramas y otras operaciones comunes como diffs (que en git se ejecutan en un suspiro), dan testimonio de cómo git fue diseñado con la intención de gestionar proyectos grandes como el kernel sin problemas.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+GitHub le pertenece actualmente a Microsoft, siendo que éste último compró el conocido como el mayor repositorio de código del mundo. 
+GitHub es punto de encuentro para millones de desarrolladores, y esa es precisamente el motivo de este suceso, con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si, se puede trabajar con Github desde la terminal, pero también desde VSC (Source Control) y desde la misma interfaz web de Github.g
